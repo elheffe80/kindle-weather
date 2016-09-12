@@ -1,2 +1,2 @@
-0,15,30,45 * * * * /home/bheffron/temperature.sh
+0,15,30,45 * * * * /home/*/temperature.sh
 
